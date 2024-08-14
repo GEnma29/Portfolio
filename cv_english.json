@@ -73,6 +73,21 @@
     "highlights": [
     "Started the company"
     ]
+    },
+    {
+      "name": "Vikua",
+      "position": "Hardware and Software Engineer",
+      "startDate": "2019-03-01",
+      "url": "https://www.linkedin.com/company/vikua/?originalSubdomain=ve",
+      "endDate": "2021-05-01",
+      "summary": [
+        "Started as an intern and transitioned to a Hardware and Software Engineer role, contributing to the development and maintenance of data services for smart city analysis.",
+        "Assisted in designing and implementing solutions for data acquisition, processing, and visualization, enabling better decision-making for urban planning and management."
+      ],
+      "highlights": [
+        "Transitioned from Internship to Full-Time Role",
+        "Contributed to Smart City Data Analysis Solutions"
+      ]
     }
     ],
     "volunteer": [{

@@ -72,6 +72,21 @@
         "highlights": [
           "Started the company"
         ]
+      },
+      {
+        "name": "Vikua",
+        "position": "Ingeniero de Hardware y Software",
+        "startDate": "2019-03-01",
+        "url": "https://www.linkedin.com/company/vikua/?originalSubdomain=ve",
+        "endDate": "2021-05-01",
+        "summary": [
+          "Comencé como pasante y luego ascendí a Ingeniero de Hardware y Software, contribuyendo al desarrollo y mantenimiento de servicios de datos para el análisis de ciudades inteligentes.",
+          "Ayudé en el diseño e implementación de soluciones para la adquisición, procesamiento y visualización de datos, lo que permitió una mejor toma de decisiones para la planificación y gestión urbana."
+        ],
+        "highlights": [
+          "Ascenso de Pasantía a Puesto de Tiempo Completo",
+          "Contribución a Soluciones de Análisis de Datos para Ciudades Inteligentes"
+        ]
       }
     ],
     "volunteer": [{
